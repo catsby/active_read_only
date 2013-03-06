@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ActiveReadOnly::VERSION
   spec.authors       = ["Clint Shryock"]
   spec.email         = ["clint@ctshryock.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Make AR be read-only"
+  spec.summary       = "read-only"
   spec.homepage      = ""
   spec.license       = "MIT"
 
